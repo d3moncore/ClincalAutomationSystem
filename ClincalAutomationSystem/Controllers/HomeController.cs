@@ -15,7 +15,7 @@ namespace ClincalAutomationSystem.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "Your application description pag1";
 
             return View();
         }
